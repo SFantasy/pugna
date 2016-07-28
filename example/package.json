@@ -1,0 +1,7 @@
+{
+  "name": "pugna-example",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "supervisor -w ../ app.js"
+  }
+}

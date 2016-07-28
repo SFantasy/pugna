@@ -1,0 +1,5 @@
+{
+  "name": "pugna-example",
+  "port": "4000",
+  "memcache": "127.0.0.1:27017"
+}
